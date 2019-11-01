@@ -29,6 +29,7 @@ MediatR)
 
 This basic architecture is based on this reference architecture: [https://github.com/jbogard/ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore)
 
+
 # Getting started
 
 
