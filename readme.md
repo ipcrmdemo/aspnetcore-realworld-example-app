@@ -45,6 +45,7 @@ The above might work for Docker on Windows
 
 ## Local building
 
+
 - Install Cake as a global tool: `dotnet tool install -g Cake.Tool`
 - Run Cake: `dotnet cake build.cake`
   - Note: this publishes as an OS X runtime by default.  Use the Cake argument `runtime` passing an RID explained here: https://docs.microsoft.com/en-us/dotnet/core/rid-catalog
