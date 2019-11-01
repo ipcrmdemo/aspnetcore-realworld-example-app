@@ -10,7 +10,7 @@ We've gone to great lengths to adhere to the ASP.NET Core community styleguides 
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
-# How it work
+# How it works
 
 
 This is using ASP.NET Core with:
