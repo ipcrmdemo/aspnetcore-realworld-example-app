@@ -31,6 +31,7 @@ This basic architecture is based on this reference architecture: [https://github
 
 # Getting started
 
+
 Install the .NET Core SDK and lots of documentation: [https://www.microsoft.com/net/download/core](https://www.microsoft.com/net/download/core)
 
 Documentation for ASP.NET Core: [https://docs.microsoft.com/en-us/aspnet/core/](https://docs.microsoft.com/en-us/aspnet/core/)
